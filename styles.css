@@ -19,6 +19,7 @@
     width: 900px;
     display: flex;
     justify-content: space-between;
+    font-weight: bold;
   }
 
 .links {
@@ -97,4 +98,8 @@
     background-color: #5995DA;
     flex: initial;
     width: 300px;
+}
+
+.signup {
+    margin-left: auto;
 }
